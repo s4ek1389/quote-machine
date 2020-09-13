@@ -1,0 +1,26 @@
+.main {
+    height: 100vh;
+}
+
+
+
+h1 {
+    font-family: Caveat;
+}
+.btn{
+    margin: 5px;
+}
+
+.card-content{
+    font-family: Caveat;
+}
+
+.quote {
+    font-size: 32px;
+    color: darkslategray;
+}
+
+.author {
+    font-size: 22px;
+    color: darkslategray;
+}
